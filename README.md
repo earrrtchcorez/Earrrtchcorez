@@ -2,7 +2,9 @@
 
 <!--
 **earrrtchcorez/Earrrtchcorez** is a ✨ special ✨ repository --->
-![Profile](assets/jiafei.gif "1")
+
+<img src="assets/jiafei.gif" width="299" />
+
 
 
 
