@@ -2,8 +2,11 @@
 
 <!--
 **earrrtchcorez/Earrrtchcorez** is a ✨ special ✨ repository --->
-<!-- GIF from: Tenor --->
-<div class="tenor-gif-embed" data-postid="26249995" data-share-method="host" data-aspect-ratio="0.5625" data-width="100%"><a href="https://tenor.com/view/xjiemomo-jiafei-gif-26249995">Xjiemomo Jiafei GIF</a>from <a href="https://tenor.com/search/xjiemomo-gifs">Xjiemomo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-- I'm EarrrtchCorez(also EarrtchCorez) just a newbie programmer wanna try something new.🌈
+![Profile](assets/jiafei.gif "1")/assets/c85e7b63-6b5b-4191-9bb4-5423018e65c6)
+![Profile](assets/jiafei(1).gif "2")/assets/09abbc9a-569c-4712-909b-e3611e4ee7f1)
+
+
+- I'm EarrrtchCorez(also EarrtchCorez) just a newbie GitHub's user and coder wanna try som!
+ething new.🌈
 - I only follow people I know, like friends for example.🙃
 
