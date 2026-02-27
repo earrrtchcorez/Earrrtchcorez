@@ -3,7 +3,7 @@
 <!--
 **earrrtchcorez/Earrrtchcorez** is a ✨ special ✨ repository --->
 
-<img src="assets/jiafei.gif" width="299" />
+<img src="assets/jiafei.gif" width="200" />
 
 
 
